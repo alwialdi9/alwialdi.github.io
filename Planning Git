@@ -2,5 +2,6 @@ Alwi Planning GIT
 
 -single auth
 -multi auth
+  *with level
 -crud with ajax
--pull and push
+-pull and push git
